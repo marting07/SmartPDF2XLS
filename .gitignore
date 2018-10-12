@@ -1,0 +1,4 @@
+# Visual Studio
+.gitignore.swp
+.vs
+SmartPDF2XLS/SmartPDF2XLS/obj
